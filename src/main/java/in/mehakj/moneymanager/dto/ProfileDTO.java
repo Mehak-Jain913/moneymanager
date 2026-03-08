@@ -19,3 +19,5 @@ public class ProfileDTO {
     private LocalDateTime createdAt;
     private LocalDateTime updatedAt;
 }
+
+//DTO->Data Transfer Object

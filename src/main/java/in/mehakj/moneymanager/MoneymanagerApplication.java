@@ -11,3 +11,7 @@ public class MoneymanagerApplication {
 	}
 
 }
+
+//smtp server->for sending email
+//gmail smtp server , brevo stmp server
+//Environment variable
